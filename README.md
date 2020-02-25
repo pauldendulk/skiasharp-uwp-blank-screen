@@ -19,4 +19,4 @@ Minimal repoduction of possible skiasharp bug using skiasharp 1.68.2-preview.29.
 ### Expected:
 - Downgrade to skiasharp 1.68.0
 - Do as a above
-- You will still see the pink rectangle.
+- You will still see the pink rectangle in the last step.
