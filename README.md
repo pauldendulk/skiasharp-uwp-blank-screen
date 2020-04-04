@@ -3,6 +3,7 @@
 Minimal repoduction of possible skiasharp bug using skiasharp 1.68.2-preview.29.
 
 ### Versions tested:
+- ❌ 1.68.2-preview.50
 - ❌ 1.68.2-preview.29
 - ❌ 1.68.1.1 (latest stable)
 - ❌ 1.68.1
